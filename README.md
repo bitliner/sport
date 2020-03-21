@@ -4,6 +4,8 @@ mens sana in corpore sano - a list of resources about sport and health
 ## Kettlebell - Exercises
 
 - [15 Dip Station Exercises You Should Try](https://www.youtube.com/watch?v=W8jXc1zaLuQ)
+  - support hold
+  - dip negative
 
 ## Parallel Bars Dip - Exercises
 
