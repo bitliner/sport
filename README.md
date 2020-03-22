@@ -25,3 +25,7 @@ mens sana in corpore sano - a list of resources about sport and health
 ## Curiosity
 
 - [If a heart is a muscle, why doesn’t it ever get tired of beating but things like my arms and legs do?](https://www.reddit.com/r/askscience/comments/fm2z8x/if_a_heart_is_a_muscle_why_doesnt_it_ever_get/)
+
+## Trackers
+
+- [Most accurate mobile heart rate meter](https://www.azumio.com/s/instantheartrate/index.html)
