@@ -29,3 +29,4 @@ mens sana in corpore sano - a list of resources about sport and health
 ## Trackers
 
 - [Most accurate mobile heart rate meter](https://www.azumio.com/s/instantheartrate/index.html)
+- [Swim tracker](https://welcome.moov.cc/moovnow)
