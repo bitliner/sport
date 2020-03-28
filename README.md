@@ -3,7 +3,8 @@ mens sana in corpore sano - a list of resources about sport and health
 
 ## Kettlebell - Exercises
 
-## Parallel Bars Dip - Exercises
+
+## [Calisthenics] Parallel Bars Dip - Exercises
 
 - [15 Dip Station Exercises You Should Try](https://www.youtube.com/watch?v=W8jXc1zaLuQ)
   - [support hold](https://youtu.be/W8jXc1zaLuQ?t=39) (isometric)
@@ -21,6 +22,25 @@ mens sana in corpore sano - a list of resources about sport and health
   - [Tucked front lever pull-ups](https://youtu.be/W8jXc1zaLuQ?t=370)
   - [Inverted Hang](https://youtu.be/W8jXc1zaLuQ?t=407)
   - [Assisted pistol squats](https://youtu.be/W8jXc1zaLuQ?t=438)
+  
+## [Calisthenics] Rings
+
+- [Rings for beginners](https://www.youtube.com/watch?v=dTL8HZmEadk)
+  - [Arms] [Support hold](https://youtu.be/dTL8HZmEadk?t=138)
+  - [Arms] [Dip negatives](https://youtu.be/dTL8HZmEadk?t=161)
+  - [Arms] [Ring dips](https://youtu.be/dTL8HZmEadk?t=223)
+  - [Arms] [Bent leg rows](https://youtu.be/dTL8HZmEadk?t=276)
+  - [Arms] [Straight leg rows](https://youtu.be/dTL8HZmEadk?t=355)
+  - [Arms] [Tucked front lever](https://youtu.be/dTL8HZmEadk?t=383)
+  - [Legs] [Assisted deep squat](https://youtu.be/dTL8HZmEadk?t=440)
+  - [Legs] [Partial assisted pistol squat](https://youtu.be/dTL8HZmEadk?t=498)
+  - [Legs] [Full assisted pistol squat](https://youtu.be/dTL8HZmEadk?t=534)
+  - [Core] [Bent arm hang](https://youtu.be/dTL8HZmEadk?t=589)
+  - [Core] [Bent arm tuck](https://youtu.be/dTL8HZmEadk?t=628)
+
+- [HOW TO RING MUSCLE UP - FULL BEGINNERS GUIDE+ FREE 4 WEEK PROGRAM](https://www.youtube.com/watch?v=0t_rhEgz-7I)
+  
+  
 
 ## Curiosity
 
