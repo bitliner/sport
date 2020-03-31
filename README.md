@@ -3,6 +3,8 @@ mens sana in corpore sano - a list of resources about sport and health
 
 - [Kettlebell](#Kettlebell)
 - [Calisthenics](#Calisthenics)
+  - [Parallel Bars Dip](#Parallel-Bars-Dip)
+  - [Rings](#Rings)
 - [Curiosity](#Curiosity)
 - [Trackers](#Trackers)
 
@@ -11,7 +13,7 @@ mens sana in corpore sano - a list of resources about sport and health
 
 ## Calisthenics 
 
-### Parallel Bars Dip - Exercises
+### Parallel Bars Dip
 
 - [15 Dip Station Exercises You Should Try](https://www.youtube.com/watch?v=W8jXc1zaLuQ)
   - [support hold](https://youtu.be/W8jXc1zaLuQ?t=39) (isometric)
