@@ -39,6 +39,15 @@ mens sana in corpore sano - a list of resources about sport and health
   - [Core] [Bent arm tuck](https://youtu.be/dTL8HZmEadk?t=628)
 
 - [HOW TO RING MUSCLE UP - FULL BEGINNERS GUIDE+ FREE 4 WEEK PROGRAM](https://www.youtube.com/watch?v=0t_rhEgz-7I)
+
+**Intermediate**
+
+- [Ring Exercises for Strength and Muscle Mass (Intermediate #2)](https://youtu.be/qgs_dvRa-S0?t=92)
+  - [Arms] [Pull up](https://youtu.be/qgs_dvRa-S0?t=92) 
+  - [Arms] [Dip](https://youtu.be/qgs_dvRa-S0?t=137)
+  - [Arms] [Support hold L-sit](https://youtu.be/qgs_dvRa-S0?t=174)
+  - [Arms] [Face pulls](https://youtu.be/qgs_dvRa-S0?t=205)
+  - [Arms] [Strenght side - Rings routing 2](https://youtu.be/qgs_dvRa-S0?t=240)
   
   
 
