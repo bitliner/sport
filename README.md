@@ -34,6 +34,8 @@ mens sana in corpore sano - a list of resources about sport and health
   
 ### Rings
 
+**Beginners**
+
 - [Rings for beginners](https://www.youtube.com/watch?v=dTL8HZmEadk)
   - [Arms] [Support hold](https://youtu.be/dTL8HZmEadk?t=138)
   - [Arms] [Dip negatives](https://youtu.be/dTL8HZmEadk?t=161)
