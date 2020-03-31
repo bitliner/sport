@@ -1,12 +1,17 @@
 # sport
 mens sana in corpore sano - a list of resources about sport and health
 
-[TOC]
+- [Kettlebell](#Kettlebell)
+- [Calisthenics](#Calisthenics)
+- [Curiosity](#Curiosity)
+- [Trackers](#Trackers)
 
-## Kettlebell - Exercises
+## Kettlebell
 
 
-## [Calisthenics] Parallel Bars Dip - Exercises
+## Calisthenics 
+
+### Parallel Bars Dip - Exercises
 
 - [15 Dip Station Exercises You Should Try](https://www.youtube.com/watch?v=W8jXc1zaLuQ)
   - [support hold](https://youtu.be/W8jXc1zaLuQ?t=39) (isometric)
@@ -25,7 +30,7 @@ mens sana in corpore sano - a list of resources about sport and health
   - [Inverted Hang](https://youtu.be/W8jXc1zaLuQ?t=407)
   - [Assisted pistol squats](https://youtu.be/W8jXc1zaLuQ?t=438)
   
-## [Calisthenics] Rings
+### Rings
 
 - [Rings for beginners](https://www.youtube.com/watch?v=dTL8HZmEadk)
   - [Arms] [Support hold](https://youtu.be/dTL8HZmEadk?t=138)
