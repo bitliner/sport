@@ -1,6 +1,8 @@
 # sport
 mens sana in corpore sano - a list of resources about sport and health
 
+<hr>
+
 - [Kettlebell](#Kettlebell)
 - [Calisthenics](#Calisthenics)
   - [Parallel Bars Dip](#Parallel-Bars-Dip)
