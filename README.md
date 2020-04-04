@@ -72,3 +72,7 @@ mens sana in corpore sano - a list of resources about sport and health
 
 - [Most accurate mobile heart rate meter](https://www.azumio.com/s/instantheartrate/index.html)
 - [Swim tracker](https://welcome.moov.cc/moovnow)
+
+## Technology & Health trackers
+
+- [You Can Monitor Heart Rhythm With A Smartphone, But Should You?](https://www.npr.org/sections/health-shots/2016/10/15/497828894/you-can-monitor-your-heart-with-a-smartphone-but-should-you?t=1586007053349)
