@@ -34,6 +34,11 @@ mens sana in corpore sano - a list of resources about sport and health
   - [Inverted Hang](https://youtu.be/W8jXc1zaLuQ?t=407)
   - [Assisted pistol squats](https://youtu.be/W8jXc1zaLuQ?t=438)
   
+  
+### Shoulders
+
+- [How to Get BIG Shoulders with Calisthenics](https://www.youtube.com/watch?v=hKjZ_RcM6F0)
+  
 ### Rings
 
 **Beginners**
