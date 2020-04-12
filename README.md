@@ -58,6 +58,7 @@ mens sana in corpore sano - a list of resources about sport and health
   - [Core] [Bent arm tuck](https://youtu.be/dTL8HZmEadk?t=628)
 
 - [HOW TO RING MUSCLE UP - FULL BEGINNERS GUIDE+ FREE 4 WEEK PROGRAM](https://www.youtube.com/watch?v=0t_rhEgz-7I)
+- [Other exercises for arms](https://www.youtube.com/watch?v=eO1gwAuIOic)
 
 **Intermediate**
 
