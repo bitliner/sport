@@ -16,6 +16,10 @@ mens sana in corpore sano - a list of resources about sport and health
 
 ## Calisthenics 
 
+### Planche
+
+- [How To Planche - Beginner Tutorial](https://www.youtube.com/watch?v=UZ-1jwG7aQ4&feature=youtu.be)
+
 ### Parallel Bars Dip
 
 - [15 Dip Station Exercises You Should Try](https://www.youtube.com/watch?v=W8jXc1zaLuQ)
