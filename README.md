@@ -5,6 +5,7 @@ mens sana in corpore sano - a list of resources about sport and health
 
 - [Kettlebell](#Kettlebell)
 - [Calisthenics](#Calisthenics)
+  - [Planche](#planche)
   - [Parallel Bars Dip](#Parallel-Bars-Dip)
   - [Shoulders](#shoulders)
   - [Rings](#Rings)
