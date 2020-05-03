@@ -4,6 +4,19 @@ mens sana in corpore sano - a list of resources about sport and health
 <hr>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Kettlebell](#kettlebell)
+- [Calisthenics](#calisthenics)
+  - [Planche](#planche)
+  - [Parallel Bars Dip](#parallel-bars-dip)
+  - [Shoulders](#shoulders)
+  - [Rings](#rings)
+- [Curiosity](#curiosity)
+- [Trackers](#trackers)
+- [Technology & Health trackers](#technology--health-trackers)
+
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Kettlebell
