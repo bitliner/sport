@@ -3,6 +3,9 @@ mens sana in corpore sano - a list of resources about sport and health
 
 <hr>
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 - [Kettlebell](#Kettlebell)
 - [Calisthenics](#Calisthenics)
   - [Planche](#planche)
