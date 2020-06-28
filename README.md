@@ -12,6 +12,7 @@ mens sana in corpore sano - a list of resources about sport and health
   - [Planche](#planche)
   - [Parallel Bars Dip](#parallel-bars-dip)
   - [Shoulders](#shoulders)
+  - [Resistance band](#resistance-band)
   - [Rings](#rings)
 - [Curiosity](#curiosity)
 - [Trackers](#trackers)
