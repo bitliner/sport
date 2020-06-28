@@ -52,6 +52,10 @@ mens sana in corpore sano - a list of resources about sport and health
 
 - [How to Get BIG Shoulders with Calisthenics](https://www.youtube.com/watch?v=hKjZ_RcM6F0)
   
+### Resistance band
+
+- [How to Hit Your Shoulders/Rear Delts Using Resistance Bands](https://youtu.be/NJ5r_hcRn64)
+
 ### Rings
 
 **Beginners**
